@@ -4,7 +4,7 @@
     <div class="introduce">
       <div class="introduce-warp">
         <div class="img">
-          <img width="94" :src="require('@/assets/img.png')" alt="">
+          <img width="94" :src="require('@/assets/WX20230915-135101@2x.png')" alt="">
         </div>
         <div>
           <div style="font-size: 22px;font-weight: bold">新德科技住宅</div>
